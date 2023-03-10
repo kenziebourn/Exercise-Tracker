@@ -2,6 +2,7 @@
 Exercise Tracker is a Single Page Application (SPA) that tracks exercises completed by the user using the MERN stack
 
 Key highlights: 
+
 ●Implements RESTful API using Node.js and Express.js to handle HTTP requests and responses for CRUD 
 operations on exercises and logs
 
